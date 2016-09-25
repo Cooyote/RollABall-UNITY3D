@@ -1,4 +1,8 @@
 # RollABall-UNITY3D
 
-Unity 3D Roll A Ball project.
-It's a miniGame.
+## About
+It's a mini-Game that you should get all the cubes to win.
+
+## Objective
+improve learning in Unity3D
+
